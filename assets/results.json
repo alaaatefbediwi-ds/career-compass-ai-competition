@@ -1,0 +1,200 @@
+[
+  {
+    "Job Title":"Digital Marketing Specialist",
+    "Sector":"Diversified",
+    "Role":"Social Media Manager",
+    "Salary_avg":316000.0,
+    "Job Description":"Social Media Managers oversee an organizations social media presence. They create and schedule content, engage with followers, and analyze social media metrics to drive brand awareness and engagement.",
+    "Responsibilities":"Manage and grow social media accounts, create engaging content, and interact with the online community. Develop social media content calendars and strategies. Monitor social media trends and engagement metrics.",
+    "skills":"Social media platforms (e.g., Facebook, Twitter, Instagram) Content creation and scheduling Social media analytics and insights Community engagement Paid social advertising"
+  },
+  {
+    "Job Title":"Web Developer",
+    "Sector":"Financial Services",
+    "Role":"Frontend Web Developer",
+    "Salary_avg":350500.0,
+    "Job Description":"Frontend Web Developers design and implement user interfaces for websites, ensuring they are visually appealing and user-friendly. They collaborate with designers and backend developers to create seamless web experiences for users.",
+    "Responsibilities":"Design and code user interfaces for websites, ensuring a seamless and visually appealing user experience. Collaborate with UX designers to optimize user journeys. Ensure cross-browser compatibility and responsive design.",
+    "skills":"HTML, CSS, JavaScript Frontend frameworks (e.g., React, Angular) User experience (UX)"
+  },
+  {
+    "Job Title":"Operations Manager",
+    "Sector":"Insurance",
+    "Role":"Quality Control Manager",
+    "Salary_avg":301000.0,
+    "Job Description":"Quality Control Managers establish and enforce quality standards within an organization. They develop quality control processes, perform inspections, and implement corrective actions to maintain product or service quality.",
+    "Responsibilities":"Establish and enforce quality control standards and procedures. Conduct quality audits and inspections. Collaborate with production teams to address quality issues and implement improvements.",
+    "skills":"Quality control processes and methodologies Statistical process control (SPC) Root cause analysis and corrective action Quality management systems (e.g., ISO 9001) Compliance and regulatory knowledge"
+  },
+  {
+    "Job Title":"Network Engineer",
+    "Sector":"Energy",
+    "Role":"Wireless Network Engineer",
+    "Salary_avg":329428.5714285714,
+    "Job Description":"Wireless Network Engineers design, implement, and maintain wireless network solutions. They optimize wireless connectivity, troubleshoot issues, and ensure reliable and secure wireless communications.",
+    "Responsibilities":"Design, configure, and optimize wireless networks, ensuring reliable and secure wireless connectivity. Troubleshoot wireless network issues. Plan and implement wireless network upgrades.",
+    "skills":"Wireless network design and architecture Wi-Fi standards and protocols RF (Radio Frequency) planning and optimization Wireless security protocols Troubleshooting wireless network issues"
+  },
+  {
+    "Job Title":"Event Manager",
+    "Sector":"Energy",
+    "Role":"Conference Manager",
+    "Salary_avg":311500.0,
+    "Job Description":"A Conference Manager coordinates and manages conferences, meetings, and events. They plan logistics, handle budgeting, liaise with vendors, and ensure the smooth execution of events, catering to the needs and expectations of attendees.",
+    "Responsibilities":"Specialize in conference and convention planning. Coordinate speaker sessions, exhibitors, and attendee experiences. Oversee event registration and marketing.",
+    "skills":"Event planning Conference logistics Budget management Vendor coordination Marketing and promotion Client relations"
+  },
+  {
+    "Job Title":"Software Tester",
+    "Sector":"Infrastructure",
+    "Role":"Quality Assurance Analyst",
+    "Salary_avg":304000.0,
+    "Job Description":"A Quality Assurance Analyst tests software and products to ensure they meet quality standards. They identify defects, report issues, and work with development teams to resolve problems.",
+    "Responsibilities":"Test software applications and systems to identify defects and ensure quality. Create test plans, test cases, and test scripts. Collaborate with development teams to resolve issues.",
+    "skills":"Quality assurance processes Testing methodologies (e.g., manual, automated) Bug tracking and reporting Test case development Regression testing"
+  },
+  {
+    "Job Title":"Teacher",
+    "Sector":"Logistics",
+    "Role":"Classroom Teacher",
+    "Salary_avg":332000.0,
+    "Job Description":"A Classroom Teacher educates students in a specific subject or grade level. They create lesson plans, deliver instruction, assess student progress, and foster a positive learning environment.",
+    "Responsibilities":"Plan and deliver engaging lessons, adapting teaching methods to student needs. Assess student progress and provide feedback. Create a positive and inclusive classroom environment.",
+    "skills":"Teaching pedagogy Classroom management Curriculum development Student assessment Differentiated instruction"
+  },
+  {
+    "Job Title":"UX\/UI Designer",
+    "Sector":"Transportation",
+    "Role":"User Interface Designer",
+    "Salary_avg":349000.0,
+    "Job Description":"User Interface Designers focus on the visual and interactive aspects of digital interfaces. They design layouts, buttons, and other elements to ensure a cohesive and visually appealing user interface.",
+    "Responsibilities":"Create visually appealing user interfaces (UI) that align with brand aesthetics and enhance user engagement. Design interface elements and interactive components. Ensure UI consistency across digital platforms.",
+    "skills":"UI design principles and best practices Graphic design tools (e.g., Adobe Photoshop, Illustrator) Typography and color theory Visual design and layout Responsive design"
+  },
+  {
+    "Job Title":"UX\/UI Designer",
+    "Sector":"Media & Entertainment",
+    "Role":"Interaction Designer",
+    "Salary_avg":301000.0,
+    "Job Description":"Interaction Designers specialize in designing user interactions within digital interfaces. They create meaningful and engaging user experiences by considering user behaviors and system responses.",
+    "Responsibilities":"Work on interaction design, defining how users interact with digital products and ensuring a seamless user journey. Create wireframes and prototypes to illustrate interactions. Collaborate with developers to implement interaction designs.",
+    "skills":"Interaction design principles User behavior and psychology Wireframing and prototyping tools Animation and micro-interaction design Collaborative design processes"
+  },
+  {
+    "Job Title":"Wedding Planner",
+    "Sector":"Transportation",
+    "Role":"Wedding Consultant",
+    "Salary_avg":280000.0,
+    "Job Description":"A Wedding Consultant assists couples in planning and coordinating their weddings, helping them with vendor selection, budget management, and ensuring a seamless wedding day experience.",
+    "Responsibilities":"Offer expert advice and guidance to couples planning their weddings. Assist with wedding theme and design selection. Coordinate and negotiate with vendors.",
+    "skills":"Wedding planning Vendor coordination Event management"
+  },
+  {
+    "Job Title":"QA Analyst",
+    "Sector":"Food & Beverage",
+    "Role":"Performance Testing Specialist",
+    "Salary_avg":350000.0,
+    "Job Description":"Performance Testing Specialists assess the performance of software applications by conducting load, stress, and scalability tests. They identify bottlenecks, optimize performance, and ensure software can handle user demands effectively.",
+    "Responsibilities":"Focus on performance and load testing to assess the scalability and responsiveness of software applications. Identify bottlenecks and optimize application performance. Generate performance test reports and recommendations.",
+    "skills":"Performance testing Load testing Stress testing Test scenarios Performance monitoring Benchmarking Performance analysis"
+  },
+  {
+    "Job Title":"Litigation Attorney",
+    "Sector":"Telecommunications",
+    "Role":"Family Law Attorney",
+    "Salary_avg":342000.0,
+    "Job Description":"Family Law Attorneys deal with legal matters related to family relationships. They handle cases like divorce, child custody, adoption, and domestic disputes to provide legal guidance.",
+    "Responsibilities":"Specialize in family law matters, such as divorce, child custody, and adoption. Advocate for clients in family court proceedings. Offer legal advice and mediation services.",
+    "skills":"Family law Divorce proceedings Child custody Mediation Legal counseling Court representation"
+  },
+  {
+    "Job Title":"Mechanical Engineer",
+    "Sector":"Manufacturing",
+    "Role":"Mechanical Design Engineer",
+    "Salary_avg":358666.6666666667,
+    "Job Description":"Mechanical Design Engineers create and develop mechanical systems and components, from concept to manufacturing, ensuring functionality and safety.",
+    "Responsibilities":"Design mechanical systems, components, and products. Create 3D models and detailed engineering drawings. Perform structural and thermal analyses.",
+    "skills":"Mechanical engineering CAD software (e.g., SolidWorks, AutoCAD) Finite element analysis Product development Prototyping"
+  },
+  {
+    "Job Title":"Network Administrator",
+    "Sector":"Energy",
+    "Role":"Network Security Analyst",
+    "Salary_avg":326000.0,
+    "Job Description":"Protect an organizations computer networks and systems from security threats, monitor network traffic, and respond to incidents.",
+    "Responsibilities":"Manage and secure computer networks, including firewalls and intrusion detection systems. Monitor network traffic for security threats. Implement security policies and procedures.",
+    "skills":"Network security protocols Intrusion detection and prevention Security incident response Firewall administration Vulnerability assessment Security policies and procedures Log analysis Ethical hacking Problem-solving Communication skills Attention to detail"
+  },
+  {
+    "Job Title":"Account Manager",
+    "Sector":"Energy",
+    "Role":"Sales Account Manager",
+    "Salary_avg":308000.0,
+    "Job Description":"A Sales Account Manager is responsible for building and maintaining relationships with clients, identifying their needs, and proposing tailored solutions to achieve sales targets.",
+    "Responsibilities":"Manage sales accounts and ensure revenue growth. Identify cross-selling and upselling opportunities. Develop account strategies and forecasts.",
+    "skills":"Account management Sales strategy Negotiation and closing skills"
+  },
+  {
+    "Job Title":"Brand Manager",
+    "Sector":"Chemicals",
+    "Role":"Product Brand Manager",
+    "Salary_avg":336666.6666666667,
+    "Job Description":"A Product Brand Manager focuses on promoting and managing the brand identity of specific products or product lines within a companys portfolio.",
+    "Responsibilities":"Manage the branding of specific products or product lines. Create product launch plans and marketing campaigns. Ensure consistent product messaging and brand representation.",
+    "skills":"Product branding and marketing Product lifecycle management Cross-functional team collaboration Product launch planning Market segmentation and targeting"
+  },
+  {
+    "Job Title":"Social Worker",
+    "Sector":"Engineering",
+    "Role":"School Social Worker",
+    "Salary_avg":327333.3333333333,
+    "Job Description":"Support students social and emotional well-being in schools, collaborate with educators, and connect families with resources.",
+    "Responsibilities":"Collaborate with schools to support students academic and social needs. Conduct assessments and provide counseling and resources. Advocate for students and families.",
+    "skills":"School social work principles Student assessment and intervention Special education laws Individualized education plans (IEPs) Crisis management Collaboration with educators Family engagement Advocacy Empathy and communication Documentation Cultural competence Licensing and certification"
+  },
+  {
+    "Job Title":"Social Media Coordinator",
+    "Sector":"Food & Beverage",
+    "Role":"Content Creator",
+    "Salary_avg":344000.0,
+    "Job Description":"Create engaging and relevant content, such as articles, videos, or social media posts, to promote brands or products.",
+    "Responsibilities":"Create compelling and shareable content for social media platforms, including text, images, and videos. Collaborate with designers and photographers for visuals. Engage with the audience and respond to comments.",
+    "skills":"Content creation (e.g., writing, editing, graphic design, video production) Content marketing Social media management SEO optimization Creative storytelling Audience engagement Analytics and reporting Adaptability Communication skills Creativity"
+  },
+  {
+    "Job Title":"Email Marketing Specialist",
+    "Sector":"Conglomerate",
+    "Role":"Deliverability Analyst",
+    "Salary_avg":352000.0,
+    "Job Description":"Monitor and improve email deliverability rates, troubleshoot delivery issues, and maintain a clean email list.",
+    "Responsibilities":"Focus on email deliverability, monitoring email sender reputation and list quality. Troubleshoot email delivery issues and maintain sender compliance. Implement best practices for inbox placement.",
+    "skills":"Email deliverability best practices Spam filter testing List hygiene Blacklist monitoring Email authentication (e.g., SPF, DKIM) Deliverability metrics analysis Troubleshooting deliverability issues Communication skills Data analysis Attention to detail"
+  },
+  {
+    "Job Title":"HR Generalist",
+    "Sector":"Financial Services",
+    "Role":"HR Coordinator",
+    "Salary_avg":331111.1111111111,
+    "Job Description":"HR Coordinators assist in HR functions such as recruitment, onboarding, and employee record maintenance. They often handle administrative tasks, organize training programs, and provide support to the HR department in various ways.",
+    "Responsibilities":"Assist with recruitment activities, including posting job openings, coordinating interviews, and managing applicant data. Ensure a positive candidate experience. Maintain recruitment records and metrics.",
+    "skills":"Human resources Recruitment Employee onboarding HRIS (HR Information Systems) Record keeping Communication skills"
+  },
+  {
+    "Job Title":"Legal Assistant",
+    "Sector":"Energy",
+    "Role":"Legal Secretary",
+    "Salary_avg":345428.5714285714,
+    "Job Description":"Provide administrative support to legal professionals, manage schedules, draft documents, and handle correspondence.",
+    "Responsibilities":"Provide administrative support to legal professionals, including scheduling appointments and managing calendars. Prepare legal correspondence and forms. Maintain legal databases and records.",
+    "skills":"Legal administrative tasks Document management Calendar and docketing Transcription File organization Communication with clients and courts Knowledge of legal terminology Attention to detail Multitasking Computer skills (e.g., MS Office)"
+  },
+  {
+    "Job Title":"Nurse Practitioner",
+    "Sector":"Transportation",
+    "Role":"Family Nurse Practitioner",
+    "Salary_avg":298000.0,
+    "Job Description":"Family Nurse Practitioners specialize in family-centered healthcare, providing comprehensive medical care to individuals of all ages within a family context.",
+    "Responsibilities":"Focus on family-centered care, providing healthcare services to individuals and families of all ages. Perform physical exams, order diagnostic tests, and manage chronic conditions. Promote health and wellness.",
+    "skills":"Family medicine Health assessment Pediatric care Chronic disease management Patient education"
+  }
+]
